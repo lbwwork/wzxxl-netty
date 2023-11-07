@@ -1,0 +1,5 @@
+netty:
+  websocket:
+    port: 8888
+    max-frame-size: 10240
+    path: /websocket
